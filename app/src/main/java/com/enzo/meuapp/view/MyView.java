@@ -7,3 +7,5 @@ public static final int FLAG_AUTOFILL_PHONE   = 0x00000002;
 public static final int FLAG_AUTOFILL_PASSWORD= 0x00000004;
 public static final String VIEW_NAME = "view";
 public static final String VIEW_VERSION = "1.0.0";
+static boolean sTextureViewIgnoresDrawableSetters = false;
+public static final String import1 = "View.ctgn";
