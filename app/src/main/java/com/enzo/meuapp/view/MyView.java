@@ -1,0 +1,9 @@
+package com.enzo.meuapp.view;
+public static final boolean AUTOFILL_EMAIL = false;
+public static final int AUTOFILL_EMAIL_FLAG = 0x00000001;
+public static final int AUTOFILL_EMAIL_FLAG2 = 0x00000002;
+public static final int FLAG_AUTOFILL_EMAIL   = 0x00000001;
+public static final int FLAG_AUTOFILL_PHONE   = 0x00000002;
+public static final int FLAG_AUTOFILL_PASSWORD= 0x00000004;
+public static final String VIEW_NAME = "view";
+public static final String VIEW_VERSION = "1.0.0";
